@@ -1,5 +1,16 @@
-### Hi there 👋
+# ¡Hola mundo! Soy Elías 👋
+### Programador Backend. Estudiante avanzado de la carrera Licenciatura en sistemas.
+![header](header-readme.jpg)
 
+# Mis proyectos
+
+## Tateti Toroidal
+
+![header](bannerTateti.jpg)
+
+## Vegan Bird
+
+![header](bannerVeganBird.jpg)
 <!--
 **elez95/elez95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
