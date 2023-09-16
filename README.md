@@ -28,6 +28,15 @@ A continuación te mostraré algunos proyectos que he realizado en donde pongo e
 ## Vegan Bird
 
 ![header](bannerVeganBird.jpg)
+
+## Facility Location
+
+![Header](bannerFacilityLocation.jpg)
+
+## Clustering Humano
+
+![Header](bannerClusteringHumano.jpg)
+
 <!--
 **elez95/elez95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
