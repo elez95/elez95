@@ -14,8 +14,9 @@ Durante este trayecto universitario he disfrutado de muchas materias que despert
   - Diseño e implementación: diseño del modelo arquitectónico, diseño de la interfaz y componentes, diseño de la base de datos.
   - Validación del software: Pruebas de desarrollo, del sistema y de aceptación.
 - Herramientas de diseño y testing como diagramas UML, testing unitario, testing automatizado, casos de uso, casos de prueba.
+- Análisis y resolución de problemas, organización de tiempos de entrega y administración de responsabilidades.
 
-A continuación te mostraré algunos proyectos que he realizado en donde pongo en práctica todos los conceptos que he visto.
+A continuación te mostraré algunos proyectos que he realizado en donde pongo en práctica todos los conceptos que he visto, explicándote la experiencia ganado y los conociemientos adquiridos durante el desarrollo del mismo.
 
 
 
