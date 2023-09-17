@@ -16,7 +16,7 @@ Durante este trayecto universitario he disfrutado de muchas materias que despert
 - Herramientas de diseño y testing como diagramas UML, testing unitario, testing automatizado, casos de uso, casos de prueba.
 - Análisis y resolución de problemas, organización de tiempos de entrega y administración de responsabilidades.
 
-A continuación te mostraré algunos proyectos que he realizado en donde pongo en práctica todos los conceptos que he visto, explicándote la experiencia ganado y los conociemientos adquiridos durante el desarrollo del mismo.
+A continuación te mostraré algunos proyectos que he realizado en donde pongo en práctica todos los conceptos que he visto, explicándote la experiencia ganada y los conociemientos adquiridos durante el desarrollo del mismo.
 
 
 
@@ -24,18 +24,31 @@ A continuación te mostraré algunos proyectos que he realizado en donde pongo e
 
 ## Tateti Toroidal
 
-![header](bannerTateti.jpg)
+<a href="https://github.com/elez95/Tateti-Toroidal">
+  <img src="bannerTateti.jpg" alt="Ir al repositorio">
+</a>
+
 
 ## Vegan Bird
 
-![header](bannerVeganBird.jpg)
+<a href="https://github.com/elez95/Vegan-Bird">
+  <img src="bannerVeganBird.jpg" alt="Ir al repositorio">
+</a>
 
 ## Facility Location
 
-![Header](bannerFacilityLocation.jpg)
+<a href="https://github.com/elez95/Facility-Location">
+  <img src="bannerFacilityLocation.jpg" alt="Ir al repositorio">
+</a>
+
 
 ## Clustering Humano
 
+<!--
+<a href="https://github.com/elez95/Facility-Location">
+  <img src="bannerVeganBird.jpg" alt="Texto alternativo">
+</a>
+-->
 ![Header](bannerClusteringHumano.jpg)
 
 <!--
