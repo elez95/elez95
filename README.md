@@ -44,12 +44,12 @@ A continuación te mostraré algunos proyectos que he realizado en donde pongo e
 
 ## Clustering Humano
 
-<!--
-<a href="https://github.com/elez95/Facility-Location">
-  <img src="bannerVeganBird.jpg" alt="Texto alternativo">
+
+<a href="https://github.com/elez95/Clustering-humano">
+  <img src="bannerClusteringHumano.jpg" alt="Texto alternativo">
 </a>
--->
-![Header](bannerClusteringHumano.jpg)
+
+
 
 <!--
 **elez95/elez95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
