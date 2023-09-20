@@ -49,7 +49,11 @@ A continuación te mostraré algunos proyectos que he realizado en donde pongo e
   <img src="bannerClusteringHumano.jpg" alt="Texto alternativo">
 </a>
 
+## Portal Artesanos
 
+<a href="https://github.com/elez95/Portal-Artesanos">
+  <img src="https://github.com/elez95/Portal-Artesanos/blob/main/README%20images/banner-portal-artesanos.jpg" alt="Texto alternativo">
+</a>
 
 <!--
 **elez95/elez95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
