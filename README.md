@@ -24,20 +24,20 @@ A continuación te mostraré algunos proyectos que he realizado en donde pongo e
 
 ## Tateti Toroidal
 
-<a href="https://github.com/elez95/Tateti-Toroidal">
+<a href="https://github.com/elez95/Tateti-Toroidal#readme">
   <img src="bannerTateti.jpg" alt="Ir al repositorio">
 </a>
 
 
 ## Vegan Bird
 
-<a href="https://github.com/elez95/Vegan-Bird">
+<a href="https://github.com/elez95/Vegan-Bird#readme">
   <img src="bannerVeganBird.jpg" alt="Ir al repositorio">
 </a>
 
 ## Facility Location
 
-<a href="https://github.com/elez95/Facility-Location">
+<a href="https://github.com/elez95/Facility-Location#readme">
   <img src="bannerFacilityLocation.jpg" alt="Ir al repositorio">
 </a>
 
@@ -45,19 +45,19 @@ A continuación te mostraré algunos proyectos que he realizado en donde pongo e
 ## Clustering Humano
 
 
-<a href="https://github.com/elez95/Clustering-humano">
+<a href="https://github.com/elez95/Clustering-humano#readme">
   <img src="bannerClusteringHumano.jpg" alt="Texto alternativo">
 </a>
 
 ## Portal Artesanos
 
-<a href="https://github.com/elez95/Portal-Artesanos">
+<a href="https://github.com/elez95/Portal-Artesanos#readme">
   <img src="https://github.com/elez95/Portal-Artesanos/blob/main/README%20images/banner-portal-artesanos.jpg" alt="Texto alternativo">
 </a>
 
 ## Web Concesionaria
 
-<a href="https://github.com/elez95/Web-Concesionaria">
+<a href="https://github.com/elez95/Web-Concesionaria#readme">
   <img src="https://github.com/elez95/Web-Concesionaria/blob/main/imagenes-readme/banner-web-concesionaria.jpg" alt="Texto alternativo">
 </a>
 <!--
