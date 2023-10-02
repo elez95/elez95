@@ -16,7 +16,7 @@ Durante este trayecto universitario he disfrutado de muchas materias que despert
 - Herramientas de diseño y testing como diagramas UML, testing unitario, testing automatizado, casos de uso, casos de prueba.
 - Análisis y resolución de problemas, organización de tiempos de entrega y administración de responsabilidades.
 
-A continuación te mostraré algunos proyectos que he realizado en donde pongo en práctica todos los conceptos que he visto, explicándote la experiencia ganada y los conociemientos adquiridos durante el desarrollo del mismo.
+A continuación te mostraré algunos proyectos que he realizado en donde pongo en práctica todos los conceptos que he visto, explicándote la experiencia ganada y los conocimientos adquiridos durante el desarrollo del mismo.
 
 
 
