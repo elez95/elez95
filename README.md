@@ -22,6 +22,13 @@ A continuación te mostraré algunos proyectos que he realizado en donde pongo e
 
 # Mis proyectos
 
+
+## Portal Artesanos
+
+<a href="https://github.com/elez95/Portal-Artesanos">
+  <img src="https://github.com/elez95/Portal-Artesanos/blob/main/README%20images/banner-portal-artesanos.jpg" alt="Texto alternativo">
+</a>
+
 ## Tateti Toroidal
 
 <a href="https://github.com/elez95/Tateti-Toroidal">
@@ -49,11 +56,7 @@ A continuación te mostraré algunos proyectos que he realizado en donde pongo e
   <img src="bannerClusteringHumano.jpg" alt="Texto alternativo">
 </a>
 
-## Portal Artesanos
 
-<a href="https://github.com/elez95/Portal-Artesanos">
-  <img src="https://github.com/elez95/Portal-Artesanos/blob/main/README%20images/banner-portal-artesanos.jpg" alt="Texto alternativo">
-</a>
 
 ## Web Concesionaria
 
