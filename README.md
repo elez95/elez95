@@ -1,5 +1,5 @@
 # ¡Hola mundo! Soy Elías 👋
-### Programador Backend. Estudiante avanzado de la carrera Licenciatura en sistemas.
+### Programador Backend y Analista Funcional. Estudiante avanzado de la carrera Licenciatura en sistemas.
 ![header](header-readme.jpg)
 
 Estoy cursando mi tercer año de la carrera en la Universidad Nacional General Sarmiento. 
