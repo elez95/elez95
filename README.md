@@ -8,7 +8,7 @@ Mi interés por la informática nació desde pequeño, cuando la curiosidad me h
 
 Durante este trayecto universitario he disfrutado de muchas materias que despertaron aún más mi interés por la informática. También pude encontrar respuestas a muchas preguntas que tenía, y lo logré aprendiendo los siguientes conceptos: 
 - La organización de una computadora y su funcionamiento desde el núcleo hasta los periféricos, pasando por compuertas lógicas, scheduler, semáforos, direccionamiento de memoria.
-- Los distintos lenguajes de programción de bajo y alto nivel como C, x86 assembly, Java, Python, Javascript. Bases de datos con MySQL, PostgreSQL.
+- Los distintos lenguajes de programación de bajo y alto nivel como C, x86 assembly, Java, Python, Javascript. Bases de datos con MySQL, PostgreSQL.
 - La planificación de un proyecto a partir de la ingeniería del software, partiendo de:
   - Especificación del software: estudio de factibilidad, relevamiento, especificación y validación de requerimientos, documentación.
   - Diseño e implementación: diseño del modelo arquitectónico, diseño de la interfaz y componentes, diseño de la base de datos.
